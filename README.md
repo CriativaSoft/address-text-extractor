@@ -2,7 +2,7 @@ address-text-extractor
 ======================
 Ferramenta para extrair os endereços de sites de busca como apontador.com.br
 
-Modo de Uso:XX BB
+Modo de Uso:XX
 
 
 Screenshot:

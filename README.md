@@ -1,6 +1,6 @@
 address-text-extractor
 ======================
-Ferramenta para extrair os endereços de sites de busca como apontador.com.br
+Ferramenta para extrair os endereços de empresas de sites de listas telefônicas como Apontador.com.br
 
 Modo de Uso: 
 ===
